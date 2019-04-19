@@ -1,2 +1,2 @@
-# TFM: Wine Quality
-Analisis y Prediccion de la Calidad del Vino Usando Técnicas de Machine Learning
+# TFM KSCHOOL: Fátima Passos
+# Analisis y Predicción de la Calidad del Vino utilizando Técnicas de Machine Learning
