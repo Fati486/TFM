@@ -67,6 +67,9 @@ En esta última parte, se abordaron los siguientes puntos:
 ### **Entornos de desarrollo**
 
 Lenguaje de programación: Python 3
-Entono de desarrollo interactivo: IPython Notebook
+
+Entorno de desarrollo interactivo: IPython Notebook
+
 Entorno de desarrollo: Google colaboratory
+
 Entorno de validación: Máquina virtual facilitada por Kschool.
