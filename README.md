@@ -65,11 +65,7 @@ En esta última parte, se abordaron los siguientes puntos:
 - Posteriormente extraímos las variables más importantes y volvímos a entrenar el modelo 'Random Forest' solo con ellas para así comparar los resultados.
 - Por último aplicamos la técnico del sobremuestreo (SMOTE) para intentar balancear las muestras y con ello volvimos a entrenar con 'random Forest' para comparar y extraer las conclusiones. 
  
-NOTA: En este último notebook, al ejecutar el código con mi máquina virtual, he tenido un error de sistema al intentar calcular las variables importantes, no obstante en Google Colaboratory funciona sin problemas. Si te da el mismo fallo te recomiendo que ejecutes el código en Colab (para ello he dejado el notebook completo en este file: 'Predicción_de_la_Calidad_del_Vino_usando_Machine_Learning.ipynb' , pero si prefieres continuar, solo deberás sustitur la línea de código por esta otra que no contenga la variable 'Alcohol':
-
-x_newrclf = x[['Acidez_Fija', 'Acidez_Volatil', 'Acido_Citrico', 'Azucar_Residual', 'Cloruro', 'Dioxido_Azufre_Total', 'Densidad', 'Sulfatos']]
- 
- Cualquier consejo y/o critica constructiva será bien recibida. Muchas gracias por leerlo.
+Espero haya sido de vuestro agrado. Cualquier consejo y/o critica constructiva será bien recibida. Muchas gracias por leerlo.
   
 
 
