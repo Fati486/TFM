@@ -57,17 +57,17 @@ En esta primera parte realizaremos el proceso de la carga de nuestro Dataset, y 
 **Parte 2- Exploración y Análisis de Datos**
 En esta parte realizaremos las modificaciones necesarias al Dataset a fin de adaptarlo el dataset a las necesidades del proyecto, y se revisará y analizará como están distribuidas y relacionadas las variables entre sí. Adicionalmente también se categorizará la variable 'calidad' en los siguientes 3 valores: '1'-Bueno, '2'-Aceptable, y '3'-Malo.
 
-**Parte 3- Pre-procesado de los Datos para aplicar Algoritmos de Machine Learning**
+**Parte 3- Entrenamiento del Modelo**
 En esta última parte, se abordaron los siguientes puntos:
 
 - Tras escalar los datos dividimos los mismos en conjuntos de entrenamiento y validación.
-- Luego entrenamos el dataset con varios modelos, y obtuvimos que el modelo 'Random Forest' fue el que obtuvo mayor precisión y recall.
-- Posteriormente aplicamos el Análisis de Varianza (ANOVA), con el cual pudimos obtener las siguinetes conclusiones:
-
-  * 
-  *
-  * 
-  *
+- Luego entrenamos el dataset con 5 modelos, y obtuvimos que el modelo 'Random Forest' fue el que obtuvo mayor precisión y recall.
+- Posteriormente extraímos las variables más importantes y volvímos a entrenar el modelo 'Random Forest' solo con ellas para así comparar los resultados.
+- Por último aplicamos la técnico del sobremuestreo (SMOTE) para intentar balancear las muestras y con ello volvimos a entrenar con 'random Forest' para comparar y extraer las conclusiones. 
+ 
+ En este último notebook, al ejecutar el código con mi máquina virtual, he tenido un error de sistema al intentar calcular las variables importantes, no obstante en Google Colaboratory funciona sin problemas. Si te da el mismo fallo te recomiendes que ejecutes el código en Colab (para ello he dejado el notebook completo en este file: 'Predicción_de_la_Calidad_del_Vino_usando_Machine_Learning.ipynb'
+ 
+ Cualquier duda y/o critica constructiva será bien recibida. Muchas gracias por leerlo.
   
 
 
