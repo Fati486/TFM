@@ -1,4 +1,4 @@
-# Análisis de las variables fisicoquímicas y sensoriales que influyen en grado de calidad de un vino
+# Predicción de la_Calidad del Vino usando Machine Learning mediante el Análisis de las variables fisicoquímicas y sensoriales del mismo.
 ### **Introducción**
 
 En los últimos años se ha reconocido la importancia de tener un mayor conocimiento acerca de cómo se comporta sensorialmente el vino, ya que ello permite entre otras cosas conocer el grado de aceptación por parte del consumidor, establecer criterios de calidad, desarrollar nuevos productos que se ajusten a los gustos cambiantes del mercado o compararlo con los competidores.
