@@ -44,10 +44,10 @@ Las variables que componen nuestro dataset son las siguientes:
 El entorno de trabajo para el desarrollo del código y la elaboración del proyecto ha sido la plataforma Google Colaboratory, no obstante; el correcto funcionamiento del código también se ha validado en el entorno de la máquina virtual facilitada por la escuela Kschool (Jupyter Notebook).
 Los notebooks subidos corresponden a los validados desde la máquina virtual, no obstante, también se dejará comentado el código utilizado en la fase de desarrollo desde la plataforma google colaboratory.
 
--Lenguaje de programación: Python 3
--Entorno de desarrollo interactivo: IPython Notebook
--Entorno de desarrollo: Google colaboratory
--Entorno de validación: Máquina virtual facilitada por Kschool.
+- Lenguaje de programación: Python 3
+- Entorno de desarrollo interactivo: IPython Notebook
+- Entorno de desarrollo: Google colaboratory
+- Entorno de validación: Máquina virtual facilitada por Kschool.
 
 El desarrollo de este trabajo se ha dividido en 3 las siguientes partes (notebooks):
 
