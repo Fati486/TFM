@@ -69,6 +69,6 @@ En esta última parte, se abordaron los siguientes puntos:
   * 
   *
   
-### **Entornos de desarrollo**
+
 
 
