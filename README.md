@@ -65,6 +65,9 @@ En esta última parte, se abordaron los siguientes puntos:
 - Posteriormente extraímos las variables más importantes y volvímos a entrenar el modelo 'Random Forest' solo con ellas para así comparar los resultados.
 - Por último aplicamos la técnico del sobremuestreo (SMOTE) para intentar balancear las muestras y con ello volvimos a entrenar con 'random Forest' para comparar y extraer las conclusiones. 
  
+También he dejado subido un notebook con el código completo para su ejecución en Google Colaboratory: 'Predicción_de_la_Calidad_del_Vino_usando_Machine_Learning.ipynb'
+
+
 Espero haya sido de vuestro agrado. Cualquier consejo y/o critica constructiva será bien recibida. Muchas gracias por leerlo.
   
 
