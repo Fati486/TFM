@@ -55,7 +55,7 @@ El desarrollo de este trabajo se ha dividido en 3 las siguientes partes (noteboo
 En esta primera parte realizaremos el proceso de la carga de nuestro Dataset, y realizaremos una serie de comprobaciones sencillas para validar integridad de los datos.
 
 **Parte 2- Exploración y Análisis de Datos**
-En esta parte realizaremos las modificaciones necesarias al Dataset a fin de adaptarlo el dataset a las necesidades del proyecto, y se revisará y analizará como están distribuidas y relacionadas las variables entre sí. Adicionalmente también se categorizará la variable 'calidad' en los siguientes 3 valores: '1'-Bueno, '2'-Aceptable, y '3'-Malo.
+En esta parte realizaremos las modificaciones necesarias al Dataset a fin de adaptarlo el dataset a las necesidades del proyecto, y se revisará y analizará como están distribuidas y relacionadas las variables entre sí. Adicionalmente también se categorizará la variable 'calidad' en los siguientes 3 valores: '1'-Malo, '2'-Aceptable, y '3'-Bueno.
 
 **Parte 3- Entrenamiento del Modelo**
 En esta última parte, se abordaron los siguientes puntos:
